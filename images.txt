@@ -1,2 +1,2 @@
 alpine:3.20.1
-ningx
+redis:6.0
