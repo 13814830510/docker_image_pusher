@@ -1,1 +1,1 @@
-rancher:v2.5.2
+rancher
