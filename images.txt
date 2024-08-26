@@ -1,2 +1,1 @@
-redis:6.0
-
+rancher:v2.5.2
